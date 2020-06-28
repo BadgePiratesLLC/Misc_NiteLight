@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name NiteLite)(type KiCad)(uri ${KIPRJMOD}/NiteLite.pretty)(options "")(descr ""))
+  (lib (name BadgePIratesLogoLibrary)(type KiCad)(uri "C:/Users/fligh/OneDrive - Tier 3 Tech/Badges/Misc_NiteLight/NiteLite/Logo.pretty")(options "")(descr ""))
+)
